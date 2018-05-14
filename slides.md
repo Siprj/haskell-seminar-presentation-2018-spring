@@ -1,16 +1,9 @@
 ---
-title: Talk Title
+title: Real world Haskell
 subtitle: Talk Subtitle
-author: John Smith <br/>[github.com/jsmith](https://github.com/jsmith)
-date: February 2017
+author: Jan Šipr <br/>[github.com/siprj](https://github.com/siprj)
+date: May 2018
 ---
-
-We are FPB
-----------
-
-<div class="vbox"></div
-><div class="hbox" style="height: 80%"><img src="http://fpbrno.github.io/images/FPB.svg"
-></div>
 
 Example Code
 ------------
@@ -65,7 +58,7 @@ Questions?
 ----------
 
 * Thank you for your attention.
-* Slides will be available at <https://fpbrno.github.io/>.
+* Slides will be available at [github.com/siprj/haskell-seminar-presentation-spring-2018](https://github.com/siprj/haskell-seminar-presentation-spring-2018)
 
 Attributions
 ------------
