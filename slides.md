@@ -20,7 +20,7 @@ date: 17 May 2018
 * Laziness
 * Pattern matching
 * Mostly strongly typed
-* [Great talk](https://www.youtube.com/watch?v=oB8jN68KGcU)
+* [Reference to a great talk](https://www.youtube.com/watch?v=oB8jN68KGcU)
 
 # Academic haskell vs real world haskell
 
@@ -30,7 +30,6 @@ date: 17 May 2018
 
 * Universal document converter [pandoc](https://pandoc.org/)
     * 56000 loc
-    * Easily extendable
 * Distributed file synchronization system [git-annex](https://git-annex.branchable.com/)
     * 58000 loc
 * Quake like game [Frag](https://github.com/rainbyte/frag)
@@ -92,6 +91,12 @@ date: 17 May 2018
     * Topic: Reason ML & Benchmarking in Elixir
     * Date: Tuesday, May 22, 2018
 
+# Other areas where haskell can be used
+
+* [clash](http://www.clash-lang.org/) - compilation haskell on FPGA
+* [ivory-tower](https://ivorylang.org/ivory-introduction.html) - EDSL for C -> embedded devices
+* quantum computers
+
 # Some useful libraries
 
 * acid
@@ -131,12 +136,6 @@ Taken form [example-servant-minimal](https://github.com/haskell-servant/example-
 # freer-effects example
 
 [example](https://github.com/IxpertaSolutions/freer-effects)
-
-# Other areas where haskell can be used
-
-* [clash](http://www.clash-lang.org/) - compilation haskell on FPGA
-* [ivory-tower](https://ivorylang.org/ivory-introduction.html) - EDSL for C -> embedded devices
-* quantum computers
 
 # Questions?
 
